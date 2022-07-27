@@ -49,7 +49,9 @@ React Router Link: https://reactrouter.com/
 
 React Toastify Link:https://www.npmjs.com/package/react-toastify
 
-![Project 005 Snapshot](movie-app.gif)
+## Check the full-functioning site at: https://0xkiichiro.github.io/react-movie-app/
+
+![](movie-app.gif)
 
 ## Steps to Solution
 
