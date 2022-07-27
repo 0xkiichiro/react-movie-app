@@ -5,6 +5,7 @@ import {
   Route,
   Outlet,
   Navigate,
+  HashRouter,
 } from "react-router-dom";
 import Main from "../pages/Main";
 import Login from "../pages/Login";
@@ -21,7 +22,7 @@ const AppRouter = () => {
   };
 
   return (
-    <BrowserRouter>
+    <HashRouter>
       <Navbar />
       <Routes>
         <Route path="/" element={<Main />} />
@@ -31,7 +32,7 @@ const AppRouter = () => {
           <Route path="" element={<MovieDetail />} />
         </Route>
       </Routes>
-    </BrowserRouter>
+    </HashRouter>
   );
 };
 
