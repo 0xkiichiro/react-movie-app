@@ -1,15 +1,6 @@
-<p>Clarusway<img align="right"
-  src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg"  width="15px"></p>
+# Movie App
 
-# Project-005 : Movie App (RC-05)
-
-## Description
-
-Project aims to create a Movie App.
-
-## Problem Statement
-
-- We are adding a new project to our portfolios. So you and your colleagues have started to work on the project.
+A movie app search site. You can register via firebase auth. Login using the registered acc. or login via Google. If you login you can see the rates of each movie, use the search bar and click on movie pictures will take you to a details page with more details regarding the movies. I added react toastify to manage login/logout pop ups.
 
 ## Project Skeleton
 
@@ -43,32 +34,25 @@ SOLUTION
 ├── .env
 └── yarn.lock
 ```
+Project Layout:
 
 ![Project 005 Snapshot](movie-app_structure.png)
 
-## Expected Outcome
+# Technologies used
+
+HTML, CSS, JS, ReactJS, Axios, Bootstrap, Firebase, React Router, React Toastify
+
+Axios Link: https://axios-http.com/docs/intro
+
+Bootstrap Link: https://react-bootstrap.github.io/
+
+Firebase Link: https://firebase.google.com/?gclsrc=ds&gclid=CLmp7cOymfkCFa5IHQkdjEUAEA&gclsrc=ds
+
+React Router Link: https://reactrouter.com/
+
+React Toastify Link:https://www.npmjs.com/package/react-toastify
 
 ![Project 005 Snapshot](movie-app.gif)
-
-## Objective
-
-Build a Movie App using ReactJS.
-
-### At the end of the project, following topics are to be covered;
-
-- HTML
-
-- CSS
-
-- JS
-
-- ReactJS
-
-### At the end of the project, students will be able to;
-
-- improve coding skills within HTML & CSS & JS & ReactJS.
-
-- use git commands (push, pull, commit, add etc.) and Github as Version Control System.
 
 ## Steps to Solution
 
@@ -181,8 +165,14 @@ signOut(auth)
 
 - Step 6: Add project gif to your project and README.md file.
 
-## Notes
+## Comments
 
-- You can add additional functionalities to your app.
+All comments appreaciated. You can contact me:
 
-**<p align="center">&#9786; Happy Coding &#9997;</p>**
+email: 0xkiichiro@proton.me
+twitter: @0xkiichiro
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
